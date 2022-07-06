@@ -1,0 +1,3 @@
+﻿  consolka.cpp
+C:\opi 5\3\consolka\consolka\consolka.cpp(121,12): warning C4101: X: неиспользованная локальная переменная
+  consolka.vcxproj -> C:\opi 5\3\consolka\Debug\consolka.exe
