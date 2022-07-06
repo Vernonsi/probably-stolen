@@ -1,0 +1,56 @@
+    push 0             ;STR V INT
+    push dwNumber
+    push szExp.sizeof
+    push szExp
+    push ptr hInput
+    call ptr ReadConsole
+
+    mov EBX, ptr dwNumber
+    mov byte ptr szN + EBX - 2, 0
+    
+        push szExp
+    call ptr atoi
+    add ESP, 4
+
+    mov [Exp], EAX      ; KONCHILI
+                                       
+
+@♦ku0♂ku 
+
+
+
+
+
+
+
+
+
+
+
+ ;   LOOP  KONEC
+    jz  INACHE   ; jz eto n & 1 vrode scas bi pisat cod iz java v asm kogda ne znaesh ni to ni to no da ladno tot kto pridumal komenti ochen krutoi
+
+
+ ;   mov EAX, [Res]
+  ;  mov EBX, [N]
+   ; mul EBX ; a kak zapisat chislo posle mul pravilno
+    ;mov [Res], EAX    ; eto dolzhno bit Res*=N
+
+    mov EAX, [N]
+    mov EBX, [N]
+    mul EBX
+    mov [N], EAX ; N*=N
+
+   ; mov EAX, [Exp]
+    ;mov EBX, 0
+   ; mov EDX, 2
+    ;div EBX
+    ; mov [Exp], EAX; Exp>>=1
+
+    mov ECX, [Exp]
+
+    INACHE:
+
+
+    KONEC:
+             

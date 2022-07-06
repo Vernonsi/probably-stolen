@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Solarte\Desktop\констр ПО\lab11\lab1\</FILEPATH>
+      <FILENAME>Header.h</FILENAME>
+      <LINE>21</LINE>
+      <COLUMN>21</COLUMN>
+    </SFA>
+    <DEFECTCODE>26496</DEFECTCODE>
+    <DESCRIPTION>The variable 'g' does not change after construction, mark it as const (con.4).</DESCRIPTION>
+    <FUNCTION>a::sinx</FUNCTION>
+    <DECORATED>?sinx@a@@QAEXN@Z</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Solarte\Desktop\констр ПО\lab11\lab1\</FILEPATH>
+      <FILENAME>Header.h</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>64</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "+" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "+", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>a::sinx</FUNCTION>
+    <DECORATED>?sinx@a@@QAEXN@Z</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Solarte\Desktop\констр ПО\lab11\lab1\</FILEPATH>
+      <FILENAME>Header.h</FILENAME>
+      <LINE>24</LINE>
+      <COLUMN>60</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Арифметическое переполнение: использование оператора "*" на байтовом значении 4 и приведение результата к байтовому значению 8. Приведите значение к более широкому типу перед вызовом оператора "*", чтобы избежать переполнения (io.2).</DESCRIPTION>
+    <FUNCTION>a::sinx</FUNCTION>
+    <DECORATED>?sinx@a@@QAEXN@Z</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

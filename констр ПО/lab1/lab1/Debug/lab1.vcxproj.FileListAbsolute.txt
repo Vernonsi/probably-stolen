@@ -1,0 +1,2 @@
+C:\Users\Solarte\Desktop\констр ПО\lab1\Debug\lab1.exe.lastcodeanalysissucceeded
+C:\Users\Solarte\Desktop\констр ПО\lab1\lab1\Debug\NativeCodeAnalysis.read.1.tlog
