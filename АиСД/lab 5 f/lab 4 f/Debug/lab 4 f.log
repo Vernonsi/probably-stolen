@@ -1,0 +1,3 @@
+﻿  lab 4 f.cpp
+C:\Users\Solarte\Desktop\АиСД\lab 4 f\lab 4 f\lab 4 f.cpp(114,15): warning C4244: инициализация: преобразование "long double" в "int", возможна потеря данных
+  lab 4 f.vcxproj -> C:\Users\Solarte\Desktop\АиСД\lab 4 f\Debug\lab 4 f.exe
