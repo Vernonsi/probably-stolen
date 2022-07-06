@@ -1,0 +1,16 @@
+Grisha 55 1
+Kirill 51 0
+Dima 80 1
+Grisha 83 0
+Kirill 10 0
+Grisha 27 0
+Vadim 14 1
+Kolya 69 0
+Vadim 13 1
+Kirill 30 0
+Kolya 32 1
+Ivan 44 0
+Kirill 43 0
+Grisha 39 0
+Vadim 88 0
+Ivan 73 0
