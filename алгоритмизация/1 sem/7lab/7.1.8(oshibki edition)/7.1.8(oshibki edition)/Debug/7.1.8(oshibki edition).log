@@ -1,0 +1,5 @@
+﻿  7.1.8(oshibki edition).cpp
+C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.1.8(oshibki edition)\7.1.8(oshibki edition)\7.1.8(oshibki edition).cpp(59,10): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.1.8(oshibki edition)\7.1.8(oshibki edition)\7.1.8(oshibki edition).cpp(90,40): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.1.8(oshibki edition)\7.1.8(oshibki edition)\7.1.8(oshibki edition).cpp(91,42): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  7.1.8(oshibki edition).vcxproj -> C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.1.8(oshibki edition)\Debug\7.1.8(oshibki edition).exe

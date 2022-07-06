@@ -1,0 +1,12 @@
+﻿  7.8.2(pomogite edition).cpp
+C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.8.2(pomogite edition)\7.8.2(pomogite edition)\7.8.2(pomogite edition).cpp(33,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.8.2(pomogite edition)\7.8.2(pomogite edition)\7.8.2(pomogite edition).cpp(34,25): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.8.2(pomogite edition)\7.8.2(pomogite edition)\7.8.2(pomogite edition).cpp(35,26): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.8.2(pomogite edition)\7.8.2(pomogite edition)\7.8.2(pomogite edition).cpp(36,26): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.8.2(pomogite edition)\7.8.2(pomogite edition)\7.8.2(pomogite edition).cpp(41,7): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.8.2(pomogite edition)\7.8.2(pomogite edition)\7.8.2(pomogite edition).cpp(47,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.8.2(pomogite edition)\7.8.2(pomogite edition)\7.8.2(pomogite edition).cpp(68,40): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.8.2(pomogite edition)\7.8.2(pomogite edition)\7.8.2(pomogite edition).cpp(69,41): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.8.2(pomogite edition)\7.8.2(pomogite edition)\7.8.2(pomogite edition).cpp(71,28): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.8.2(pomogite edition)\7.8.2(pomogite edition)\7.8.2(pomogite edition).cpp(72,28): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  7.8.2(pomogite edition).vcxproj -> C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.8.2(pomogite edition)\Debug\7.8.2(pomogite edition).exe

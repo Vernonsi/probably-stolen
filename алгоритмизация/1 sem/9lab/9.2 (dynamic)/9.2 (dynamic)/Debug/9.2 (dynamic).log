@@ -1,0 +1,5 @@
+﻿  9.2 (dynamic).cpp
+C:\Users\Solarte\Desktop\алгоритмизация\9lab\9.2 (dynamic)\9.2 (dynamic)\9.2 (dynamic).cpp(30,9): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Solarte\Desktop\алгоритмизация\9lab\9.2 (dynamic)\9.2 (dynamic)\9.2 (dynamic).cpp(30,12): warning C4101: s: неиспользованная локальная переменная
+C:\Users\Solarte\Desktop\алгоритмизация\9lab\9.2 (dynamic)\9.2 (dynamic)\9.2 (dynamic).cpp(30,6): warning C4101: i: неиспользованная локальная переменная
+  9.2 (dynamic).vcxproj -> C:\Users\Solarte\Desktop\алгоритмизация\9lab\9.2 (dynamic)\Debug\9.2 (dynamic).exe

@@ -1,0 +1,4 @@
+﻿  7.2.8(1).cpp
+C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.2.8(1)\7.2.8(1)\7.2.8(1).cpp(91,40): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.2.8(1)\7.2.8(1)\7.2.8(1).cpp(93,28): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  7.2.8(1).vcxproj -> C:\Users\Solarte\Desktop\алгоритмизация\7lab\7.2.8(1)\Debug\7.2.8(1).exe

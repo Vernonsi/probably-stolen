@@ -1,0 +1,10 @@
+﻿  lab 8.cpp
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\lab 8\lab 8\lab 8.cpp(107,30): warning C4552: ">": результат выражения не используется
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\lab 8\lab 8\lab 8.cpp(132,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\lab 8\lab 8\lab 8.cpp(154,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\lab 8\lab 8\lab 8.cpp(164,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\lab 8\lab 8\lab 8.cpp(165,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\lab 8\lab 8\lab 8.cpp(176,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\lab 8\lab 8\lab 8.cpp(182,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\lab 8\lab 8\lab 8.cpp(183,21): warning C4018: <: несоответствие типов со знаком и без знака
+  lab 8.vcxproj -> C:\Users\Solarte\Desktop\алгоритмизация\2 sem\lab 8\Debug\lab 8.exe

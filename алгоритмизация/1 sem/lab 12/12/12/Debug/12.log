@@ -1,0 +1,4 @@
+﻿  12.cpp
+C:\Users\Solarte\Desktop\алгоритмизация\lab 12\12\12\12.cpp(118,19): warning C4244: инициализация: преобразование "double" в "char", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\lab 12\12\12\12.cpp(129,19): warning C4244: инициализация: преобразование "double" в "char", возможна потеря данных
+  12.vcxproj -> C:\Users\Solarte\Desktop\алгоритмизация\lab 12\12\Debug\12.exe

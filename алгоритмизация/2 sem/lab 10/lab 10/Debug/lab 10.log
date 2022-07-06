@@ -1,0 +1,5 @@
+﻿  lab 10.cpp
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\lab 10\lab 10\lab 10.cpp(121,30): warning C4552: ">": результат выражения не используется
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\lab 10\lab 10\lab 10.cpp(147,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\lab 10\lab 10\lab 10.cpp(237,20): warning C4018: <: несоответствие типов со знаком и без знака
+  lab 10.vcxproj -> C:\Users\Solarte\Desktop\алгоритмизация\2 sem\lab 10\Debug\lab 10.exe

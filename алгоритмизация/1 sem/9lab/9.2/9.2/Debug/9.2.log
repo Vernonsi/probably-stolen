@@ -1,0 +1,5 @@
+﻿  9.2.cpp
+C:\Users\Solarte\Desktop\алгоритмизация\9lab\9.2\9.2\9.2.cpp(29,9): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Solarte\Desktop\алгоритмизация\9lab\9.2\9.2\9.2.cpp(29,12): warning C4101: s: неиспользованная локальная переменная
+C:\Users\Solarte\Desktop\алгоритмизация\9lab\9.2\9.2\9.2.cpp(29,6): warning C4101: i: неиспользованная локальная переменная
+  9.2.vcxproj -> C:\Users\Solarte\Desktop\алгоритмизация\9lab\9.2\Debug\9.2.exe

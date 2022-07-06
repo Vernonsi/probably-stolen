@@ -1,0 +1,14 @@
+﻿  masiv2d.cpp
+C:\Users\Solarte\Desktop\алгоритмизация\lab 11\11.3\11.3\masiv2d.cpp(27,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\lab 11\11.3\11.3\masiv2d.cpp(28,25): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\lab 11\11.3\11.3\masiv2d.cpp(29,26): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\lab 11\11.3\11.3\masiv2d.cpp(30,26): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\lab 11\11.3\11.3\masiv2d.cpp(35,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\lab 11\11.3\11.3\masiv2d.cpp(41,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Source.cpp
+C:\Users\Solarte\Desktop\алгоритмизация\lab 11\11.3\11.3\Source.cpp(9,40): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\lab 11\11.3\11.3\Source.cpp(10,41): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\lab 11\11.3\11.3\Source.cpp(12,28): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Users\Solarte\Desktop\алгоритмизация\lab 11\11.3\11.3\Source.cpp(13,28): warning C4244: инициализация: преобразование "double" в "unsigned int", возможна потеря данных
+  Создание кода...
+  11.3.vcxproj -> C:\Users\Solarte\Desktop\алгоритмизация\lab 11\11.3\Debug\11.3.exe

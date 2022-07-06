@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\8\Source.cpp(28,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\8\Source.cpp(67,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Train.cpp
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\8\Train.cpp(77,17): error C3861: CheckInt: идентификатор не найден
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\8\Train.cpp(78,17): error C3861: CheckInt: идентификатор не найден
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\8\Train.cpp(79,17): error C3861: CheckInt: идентификатор не найден
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\8\Train.cpp(152,12): error C3861: CheckIntZ: идентификатор не найден
+C:\Users\Solarte\Desktop\алгоритмизация\2 sem\8\Train.cpp(173,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
